@@ -4,9 +4,9 @@ This branch of ```iai_shapelets``` contains the evaluation source code and datas
 We will release both the source code and the dataset as soon as publication has been confirmed.
 
 ## Requirements
- -python 2.7.3
- -scipy
- -scikit-learn
+* python 2.7.3
+* scipy
+* scikit-learn
 
 ## How to run
 ```python2.7 find_shapelets.py```
