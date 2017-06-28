@@ -23,11 +23,15 @@ to use the whole dataset
 The following robotic setup was used to generate 460 recodings. 
 During the wiping executions different events have occured, for example a contact with a movable box.
 
-![wiping_setup](images/wiping_setup.png)
+<br>
+<img height="50%" width="50%" src="https://github.com/code-iai/iai_shapelets/blob/RAL17/images/wiping_setup.png"/>
+<br>
 
 The proposed algorithm learns short shape snippets called shapelets for each event. 
 Shapelets can be used to detect events online.
 In the following picture you can see how the shapelet for movable box is used to compute a distance time series.
 An event has been detected, if the distance gets below the learned threshold for that shapelet.
 
-![push_classification](images/push_classification.png)
+<br>
+<img height="50%" width="50%" src="https://github.com/code-iai/iai_shapelets/blob/RAL17/images/push_classification.png"/>
+<br>
