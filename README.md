@@ -24,10 +24,8 @@ The following robotic setup was used to generate 460 recodings.
 During the wiping executions different events have occured, for example a contact with a movable box.
 
 <br>
-<img src="https://github.com/code-iai/iai_shapelets/blob/RAL17/images/wiping_setup.png"/>
+<img height="700" src="https://github.com/code-iai/iai_shapelets/blob/RAL17/images/wiping_setup.png"/>
 <br>
-
-![wiping_setup](images/wiping_setup.png)
 
 The proposed algorithm learns short shape snippets called shapelets for each event. 
 Shapelets can be used to detect events online.
